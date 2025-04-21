@@ -21,4 +21,4 @@
 
 ---
 
-📫 You can reach me on [LinkedIn](www.linkedin.com/in/ana-maria-mamani-zenteno-5280921b2)  
+📫 You can reach me on [www.linkedin.com/in/ana-maria-mamani-zenteno-5280921b2]  
