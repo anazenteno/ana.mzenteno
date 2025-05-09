@@ -6,8 +6,15 @@
 
 ## 🔧 My Work (In Progress)
 
-- [ ] UI Automation project (coming soon)
-- [ ] API Testing project (coming soon)
+🧪 API Testing Projects
+- ✅ Postman & Newman project: [Ver aquí](link)
+- 🔜 REST Assured automation (Java)
+- 🔜 API testing with Playwright (Python)
+
+🤖 UI Automation Projects (coming soon)
+- 🔜 Cypress automation
+- 🔜 Playwright + Browser testing
+  
 - [ ] Test case documentation examples (coming soon)
 
 ## 📚 What I'm Learning
