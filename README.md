@@ -7,7 +7,7 @@
 ## 🔧 My Work (In Progress)
 
 🧪 API Testing Projects
-- ✅ Postman & Newman project: [Ver aquí](link)
+- ✅ Postman & Newman: **TodoList** ➡️ [API Automation with Postman](https://github.com/anazenteno/postman-todolist-api-testing)
 - 🔜 REST Assured automation (Java)
 - 🔜 API testing with Playwright (Python)
 
