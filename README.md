@@ -8,10 +8,11 @@
 
 🧪 API Testing Projects
 - ✅ Postman & Newman: **TodoList** ➡️ [API Automation with Postman](https://github.com/anazenteno/postman-todolist-api-testing)
+- ✅ API testing with Playwright (Python)
 - 🔜 REST Assured automation (Java)
-- 🔜 API testing with Playwright (Python)
 
 🤖 UI Automation Projects (coming soon)
+- ✅ Web UI testing with Playwright (Python, Behave) ➡️ [Todo List Web Automation Project](https://github.com/anazenteno/todolist-web-automation)
 - 🔜 Cypress automation
 - 🔜 Playwright + Browser testing
   
